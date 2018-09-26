@@ -8,6 +8,7 @@ hosted on GitHub: https://github.com/nuand/bladeRF
 NEXT
 --------------------------------
  * Add missing BB_TXVGA1_RXLPF loopback option (#478)
+ * Fix tx_gain property handling in simulink (#654)
 
 v1.0.1 (2018-08-24)
 --------------------------------

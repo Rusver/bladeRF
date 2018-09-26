@@ -12,6 +12,10 @@ NEXT
  * Display manufacturer and product strings in 'probe', 'info' (#624)
  * Ensure device is initialized after deferred open (#612)
  * Use "degrees C" on temperature instead of the degrees symbol
+ * Add flash size to 'info' command (#634)
+ * Handle already-open devices on 'probe' (#648)
+ * Add support for "J51-1" and "Miniexp-1" as trigger signals (#656)
+ * Display FPGA configuration source on 'version' (#662)
 
 v1.6.1 (2018-08-24)
 --------------------------------

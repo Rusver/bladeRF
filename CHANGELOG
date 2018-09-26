@@ -2,7 +2,7 @@
 bladeRF Project Change Log Summary
 
 For more detailed information, please see the git change log and issue tracker
-hosted on GitHub: https://github.com/nuand/bladeRF
+hosted on GitHub: https://github.com/Nuand/bladeRF
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -10,7 +10,8 @@ hosted on GitHub: https://github.com/nuand/bladeRF
 --------------------------------------------------------------------------------
 
 * Windows installer
-    - install-drivers: install a driver for the bootloader VID/PID (04b4:00f3)
+    - install-drivers: install a driver for the bootloader VID/PID (04b4:00f3),
+      allowing easier FX3 bootloader recovery operations
     - Upgrade to libusb 1.0.22
 
 --------------------------------------------------------------------------------

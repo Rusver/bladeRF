@@ -8,6 +8,7 @@ hosted on GitHub: https://github.com/nuand/bladeRF
 NEXT
 --------------------------------
  * Fix rx_channel_count and tx_channel_count
+ * Use new bladerf_get_serial_struct in the get_serial method
  * Update with latest API functions
 
 v1.0.1 (2018-08-24)
